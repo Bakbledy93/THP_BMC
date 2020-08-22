@@ -125,13 +125,13 @@ JP</p>
 <p>Zieutons 👀 de plus prêt maintenant sur les concurrents du <strong>KawaBunga Café</strong> :</p>
 <p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/Concurrents.jpg" alt="Concurrents"></p>
 <p><em>Aparté :<br>
-Beaucoup doivent penser que l’idée de base est un peu foireuse (quoiqu’on trouve bien des cafés à chat sur Paris).<br>
+Beaucoup doivent penser que l’idée de base est un peu foireuse (quoiqu’on trouve bien des bars à sieste sur Paris).<br>
 Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse que tu as obtenus des retours très positifs après l’enquête menée dans le quartier (en réalité le marché des cafés à Paris et des studios yogas est ultra concurrentiel). Tu as également mappé tous les concurrents et tu as des idées de services qui feront la diffs !</em></p>
 <p>Il est temps de construire ton Business Model Canvas !</p>
 <h2 id="le-bmc---pour-de-vrai-...">1.2 Le BMC - <em>pour de vrai …</em></h2>
-<p>Enfin on va pouvoir s’attaquer au BMC, pour rappel il est représenté en tableau et est composé de 9 rubriques  (voir <em>§1.1 BMC - Business Model Canvas</em>). Chaque rubrique est lié à une autre, donc pour chaque modification faite, <strong>vérifier quel impact</strong> elle aura sur les autres (au risque d’avoir un BMC bancal) :</p>
+<p>Enfin on va pouvoir s’attaquer au BMC, pour rappel il est représenté en tableau et est composé de 9 rubriques  (voir <em>§1.1 BMC - Business Model Canvas</em>). C’est le bordel quand tu regardes le tableau de prime abord, car ça ne suis pas une logique de lecture classique (1 tout à droite, le 2 au milieu, etc). De plus, chaque rubrique est lié à une autre, donc pour chaque modification faite, <strong>vérifies quel impact</strong> elle aura sur les autres (au risque d’avoir un BMC bancal) :</p>
 <p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/THP_BMC.png" alt="Canvas"></p>
-<h3 id="rubrique-bmc-1--segments-de-clientèle">1.2.1 Rubrique BMC (1) : <em>Segments de clientèle</em></h3>
+<h3 id="rubrique-bmc-1--segments-de-clientèle-💁">1.2.1 Rubrique BMC (1) : <em>Segments de clientèle</em> 💁</h3>
 <p>C’est la rubrique <strong>phare</strong> de ton BMC. <em>Pas de bras , pas de chocolat</em>, donc il faut prendre ton temps pour définir précisément ta clientèle cible. Petit rappel, tes utilisateurs ne seront pas forcément tes <em>yenclis</em> ! Comme d’habitude, réponds aux questions suivantes pour t’aider à remplir cette rubrique :</p>
 <ol>
 <li>T’es clients sont-ils aussi les consommateurs ?</li>
@@ -139,7 +139,7 @@ Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse 
 <li>Quel est le profil générale de ta clientèle ? Que veulent-ils ? Que ne veulent-ils pas ?</li>
 <li>Où les retrouve-t-on généralement ? Quelle est la meilleure manière de valider leur intérêts ?</li>
 </ol>
-<p>Mais heureusement que t’es consciencieux et que tu as fait un super travail préliminaire, <em>EZ</em>! Donc appui toi dessus :</p>
+<p>Mais heureusement que t’es consciencieux et que tu as fait un super travail préliminaire, <em>EZ</em>! Donc appuis toi dessus :</p>
 <ol>
 <li>T’es clients sont-ils aussi les consommateurs ?</li>
 </ol>
@@ -165,115 +165,121 @@ Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse 
 <p>Sondage auprès des résidents, travailleurs et badauds du quartier de la gare Saint-Lazare.</p>
 </blockquote>
 <p>Et voilà le travail !</p>
-<h3 id="rubrique-bmc-2--propositions-de-valeurs">1.2.2 Rubrique BMC (2) : <em>Propositions de valeurs</em></h3>
-<p>C’est l’offre que tu vas proposer qui va avoir une valeur (ou pas, si tu as mal défini ta clientèle cible) auprès de tes clients. La proposition de valeur va apporter une solution à un problème ou un besoin. L’offre est indissociable aux clients. Comme <em>Sasha et Pikachu</em>, <em>Han Solo et Chewie</em>, <em>Rick et Morty</em> …  l’un ne va pas s’en l’autre et ceux qui pensent le contraire sont des 🤬🤬🤬🤬 de psychopathes qui ne méritent que la banqueroute !</p>
+<h3 id="rubrique-bmc-2--propositions-de-valeurs-gift">1.2.2 Rubrique BMC (2) : <em>Propositions de valeurs</em> 🎁</h3>
+<p>C’est l’offre que tu vas proposer qui <strong>va avoir une valeur</strong> (ou pas, si tu as mal défini ta clientèle cible) auprès de tes clients. La proposition de valeur va apporter une solution à un problème ou un besoin. L’offre est indissociable aux clients. Comme <em>Sasha et Pikachu</em>, <em>Han Solo et Chewie</em>, <em>Rick et Morty</em> …  l’un ne va pas s’en l’autre et ceux qui pensent le contraire sont des 🤬🤬🤬🤬 de psychopathes qui ne méritent que la banqueroute !</p>
 <p>Tu vas le définir en répondant aux questions suivantes :</p>
 <ol>
-<li>Quel besoin/problème ta proposition va répondre/résoudre ?</li>
-<li>Quels sont les caractéristiques principales de tes produits/services ?</li>
-<li>Quels sont tes avantages concurrentiels, ce qui te distingue ?</li>
+<li>Quel <strong>besoin/problème</strong> ta proposition va répondre/résoudre ?</li>
+<li>Quelles sont les caractéristiques principales de tes produits/services ?</li>
+<li>Quels sont <strong>tes avantages concurrentiels</strong>, ce qui te distingue ?</li>
 </ol>
 <p>Pour le <strong>Kawabunga Café</strong>, cela va donner :</p>
-<h2 id="switch-to-another-file">Switch to another file</h2>
-<p>All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.</p>
-<h2 id="rename-a-file">Rename a file</h2>
-<p>You can rename the current file by clicking the file name in the navigation bar or by clicking the <strong>Rename</strong> button in the file explorer.</p>
-<h2 id="delete-a-file">Delete a file</h2>
-<p>You can delete the current file by clicking the <strong>Remove</strong> button in the file explorer. The file will be moved into the <strong>Trash</strong> folder and automatically deleted after 7 days of inactivity.</p>
-<h2 id="export-a-file">Export a file</h2>
-<p>You can export the current file by clicking <strong>Export to disk</strong> in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.</p>
-<h1 id="synchronization">Synchronization</h1>
-<p>Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your <strong>Google Drive</strong>, your <strong>Dropbox</strong> and your <strong>GitHub</strong> accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow… The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.</p>
-<p>There are two types of synchronization and they can complement each other:</p>
+<ol>
+<li>Quel besoin/problème ta proposition va répondre/résoudre ?</li>
+</ol>
+<blockquote>
+<p>Ralentir le rythme et se recentrer sur son être le temps d’un café dans un quartier de bureaux gentrifié.</p>
+</blockquote>
+<ol start="2">
+<li>Quelles sont les caractéristiques principales de tes produits/services ?</li>
+</ol>
+<blockquote>
+<p>Un local à la déco zen  et épuré. Un café issu de l’agriculture biologie et raisonné en accord avec les valeurs de la population gentrifié du quartier. Du Latte Art (ultra instagrammable) fait par un barista.  Deux cabines de méditation express d’isolation sensorielle. Une pièce de méditation collective.</p>
+</blockquote>
+<ol start="3">
+<li>Quels sont tes avantages concurrentiels, ce qui te distingue ?</li>
+</ol>
+<blockquote>
+<p>Qualité des produits et des services.</p>
+</blockquote>
+<h3 id="nota--pour-aller-plus-loin">Nota : pour aller plus loin</h3>
+<p>Il existe un ouvrage spécifiquement dédié à la définition des segments clientèles et des proposition de valeurs écrit également par Alexander Osterwalder et Yves pigneur, <em>Value Proposition Design</em>. Qui explique de manière précise les liens entres ces deux rubriques majeures et comment les définir correctement. Tu peux lire cette <a href="https://business-builder.cci.fr/guide-creation/la-bonne-idee-de-creation-dentreprise/travailler-sur-les-besoins-de-ses-clients-le-value-proposition-canvas">article de la CCI</a> sur le sujet.</p>
+<p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/Value%20proposition%20canvas.png" alt="Value proposition design"></p>
+<h3 id="rubrique-bmc-3--canaux-de-distribution-truck">1.2.3 Rubrique BMC (3) : <em>Canaux de distribution</em> 🚚</h3>
+<p>C’est <strong>les moyens de communication et de distributions</strong> que tu mets en place pour atteindre tes clients.</p>
+<p>Tu vas pouvoir y répondre grâce à cette question :</p>
 <ul>
-<li>
-<p>The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.</p>
-<blockquote>
-<p>To start syncing your workspace, just sign in with Google in the menu.</p>
-</blockquote>
-</li>
-<li>
-<p>The file synchronization will keep one file of the workspace synced with one or multiple files in <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong>.</p>
-<blockquote>
-<p>Before starting to sync files, you must link an account in the <strong>Synchronize</strong> sub-menu.</p>
-</blockquote>
-</li>
+<li>Quels sont les canaux de distribution qui permettront aux clients d’acquérir la produit ou le service ?</li>
 </ul>
-<h2 id="open-a-file">Open a file</h2>
-<p>You can open a file from <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong> by opening the <strong>Synchronize</strong> sub-menu and clicking <strong>Open from</strong>. Once opened in the workspace, any modification in the file will be automatically synced.</p>
-<h2 id="save-a-file">Save a file</h2>
-<p>You can save any file of the workspace to <strong>Google Drive</strong>, <strong>Dropbox</strong> or <strong>GitHub</strong> by opening the <strong>Synchronize</strong> sub-menu and clicking <strong>Save on</strong>. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.</p>
-<h2 id="synchronize-a-file">Synchronize a file</h2>
-<p>Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.</p>
-<p>If you just have modified your file and you want to force syncing, click the <strong>Synchronize now</strong> button in the navigation bar.</p>
+<p>Et pour ton projet, c’est simple :</p>
 <blockquote>
-<p><strong>Note:</strong> The <strong>Synchronize now</strong> button is disabled if you have no file to synchronize.</p>
+<p>Ton local, des ateliers de méditations éphémères par exemple.</p>
 </blockquote>
-<h2 id="manage-file-synchronization">Manage file synchronization</h2>
-<p>Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking <strong>File synchronization</strong> in the <strong>Synchronize</strong> sub-menu. This allows you to list and remove synchronized locations that are linked to your file.</p>
-<h1 id="publication">Publication</h1>
-<p>Publishing in StackEdit makes it simple for you to publish online your files. Once you’re happy with a file, you can publish it to different hosting platforms like <strong>Blogger</strong>, <strong>Dropbox</strong>, <strong>Gist</strong>, <strong>GitHub</strong>, <strong>Google Drive</strong>, <strong>WordPress</strong> and <strong>Zendesk</strong>. With <a href="http://handlebarsjs.com/">Handlebars templates</a>, you have full control over what you export.</p>
-<blockquote>
-<p>Before starting to publish, you must link an account in the <strong>Publish</strong> sub-menu.</p>
-</blockquote>
-<h2 id="publish-a-file">Publish a File</h2>
-<p>You can publish your file by opening the <strong>Publish</strong> sub-menu and by clicking <strong>Publish to</strong>. For some locations, you can choose between the following formats:</p>
+<h3 id="rubrique-bmc-4-relations-clients-heart">1.2.4 Rubrique BMC (4): <em>Relations clients</em> ❤️</h3>
+<p>C’est dans cette rubrique que tu vas décrire les types de relations que ta boite va établir avec tes clients. C’est définir toute <strong>ta stratégie</strong> de fidélisation et d’acquisition clientèle et d’assurer le maximum de <em>cravbi</em>.</p>
 <ul>
-<li>Markdown: publish the Markdown text on a website that can interpret it (<strong>GitHub</strong> for instance),</li>
-<li>HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).</li>
+<li>Quelle est la stratégie permettant de rejoindre, fidéliser, générer et maintenir une clientèle cible ?</li>
+<li>Quels seront les moyens de communication privilégiés ?</li>
 </ul>
-<h2 id="update-a-publication">Update a publication</h2>
-<p>After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the <strong>Publish now</strong> button in the navigation bar.</p>
+<p>Pour le <strong>Kawabunga Café</strong>, cela va donner :</p>
+<ul>
+<li>Quelle est la stratégie permettant de rejoindre, fidéliser, générer et maintenir une clientèle cible ?</li>
+</ul>
 <blockquote>
-<p><strong>Note:</strong> The <strong>Publish now</strong> button is disabled if your file has not been published yet.</p>
+<p>Evènements mensuels :  ateliers d’initiations aux différents types de méditation (Vipassana, pleine conscience, Zazen, etc).<br>
+Masterclass de yogis.<br>
+Des séances en cabine offerte au bout d’un certain seuil de consommation.</p>
 </blockquote>
-<h2 id="manage-file-publication">Manage file publication</h2>
-<p>Since one file can be published to multiple locations, you can list and manage publish locations by clicking <strong>File publication</strong> in the <strong>Publish</strong> sub-menu. This allows you to list and remove publication locations that are linked to your file.</p>
-<h1 id="markdown-extensions">Markdown extensions</h1>
-<p>StackEdit extends the standard Markdown syntax by adding extra <strong>Markdown extensions</strong>, providing you with some nice features.</p>
+<p>La perception clientèle est aussi importante. Quid du nom <strong>Kawabunga Café</strong>, qui renvoi plus à des tortues 🐢 qu’à un univers zen et calme. <em>Dois-tu opérer  à des changements ?</em></p>
+<ul>
+<li>Quels seront les moyens de communication privilégiés ?</li>
+</ul>
 <blockquote>
-<p><strong>ProTip:</strong> You can disable any <strong>Markdown extension</strong> in the <strong>File properties</strong> dialog.</p>
+<p>Site internet, Facebook, Instagram.</p>
 </blockquote>
-<h2 id="smartypants">SmartyPants</h2>
-<p>SmartyPants converts ASCII punctuation characters into “smart” typographic punctuation HTML entities. For example:</p>
-
-<table>
-<thead>
-<tr>
-<th></th>
-<th>ASCII</th>
-<th>HTML</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Single backticks</td>
-<td><code>'Isn't this fun?'</code></td>
-<td>‘Isn’t this fun?’</td>
-</tr>
-<tr>
-<td>Quotes</td>
-<td><code>"Isn't this fun?"</code></td>
-<td>“Isn’t this fun?”</td>
-</tr>
-<tr>
-<td>Dashes</td>
-<td><code>-- is en-dash, --- is em-dash</code></td>
-<td>– is en-dash, — is em-dash</td>
-</tr>
-</tbody>
-</table><h2 id="katex">KaTeX</h2>
-<p>You can render LaTeX mathematical expressions using <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
-<p>The <em>Gamma function</em> satisfying <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">Γ</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo><mo>=</mo><mo stretchy="false">(</mo><mi>n</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo><mo stretchy="false">!</mo><mspace width="1em"></mspace><mi mathvariant="normal">∀</mi><mi>n</mi><mo>∈</mo><mi mathvariant="double-struck">N</mi></mrow><annotation encoding="application/x-tex">\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">Γ</span><span class="mopen">(</span><span class="mord mathdefault">n</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">1</span><span class="mclose">)</span><span class="mclose">!</span><span class="mspace" style="margin-right: 1em;"></span><span class="mord">∀</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">∈</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.68889em; vertical-align: 0em;"></span><span class="mord mathbb">N</span></span></span></span></span> is via the Euler integral</p>
-<p><span class="katex--display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">Γ</mi><mo stretchy="false">(</mo><mi>z</mi><mo stretchy="false">)</mo><mo>=</mo><msubsup><mo>∫</mo><mn>0</mn><mi mathvariant="normal">∞</mi></msubsup><msup><mi>t</mi><mrow><mi>z</mi><mo>−</mo><mn>1</mn></mrow></msup><msup><mi>e</mi><mrow><mo>−</mo><mi>t</mi></mrow></msup><mi>d</mi><mi>t</mi> <mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord">Γ</span><span class="mopen">(</span><span class="mord mathdefault" style="margin-right: 0.04398em;">z</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 2.32624em; vertical-align: -0.91195em;"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right: 0.44445em; position: relative; top: -0.001125em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 1.41429em;"><span class="" style="top: -1.78805em; margin-left: -0.44445em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">0</span></span></span><span class="" style="top: -3.8129em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.91195em;"><span class=""></span></span></span></span></span></span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord"><span class="mord mathdefault">t</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.864108em;"><span class="" style="top: -3.113em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right: 0.04398em;">z</span><span class="mbin mtight">−</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mord"><span class="mord mathdefault">e</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height: 0.843556em;"><span class="" style="top: -3.113em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">−</span><span class="mord mathdefault mtight">t</span></span></span></span></span></span></span></span></span><span class="mord mathdefault">d</span><span class="mord mathdefault">t</span><span class="mspace" style="margin-right: 0.166667em;"></span><span class="mord">.</span></span></span></span></span></span></p>
+<h3 id="rubrique-bmc-5--flux-de-revenus-dollar">1.2.5 Rubrique BMC (5) : <em>Flux de revenus</em> 💵</h3>
+<p>Ce sont les rentrées d’argents générées par ta boite, qui suivant ton offre, peuvent être <strong>ponctuelles ou récurrentes</strong>.</p>
+<ul>
+<li>Pourquoi les clients paient-ils ?</li>
+<li>Quels est le prix qu’ils seraient prêt à payer ?</li>
+<li>Comment comptes-tu établir le prix ? (coût de revient, concurrence, valeur perçue, rareté)</li>
+</ul>
+<p>Pour le <strong>Kawabunga Café</strong>, cela va donner :</p>
+<ul>
+<li>Pourquoi les clients paient-ils ?</li>
+</ul>
 <blockquote>
-<p>You can find more information about <strong>LaTeX</strong> mathematical expressions <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here</a>.</p>
+<p>Niveau de prestation élevés</p>
 </blockquote>
-<h2 id="uml-diagrams">UML diagrams</h2>
-<p>You can render UML diagrams using <a href="https://mermaidjs.github.io/">Mermaid</a>. For example, this will produce a sequence diagram:</p>
-<div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-zHWrqTR94V1hO4wf" height="100%" width="100%" style="max-width:750px;" viewBox="-50 -10 750 457"><g></g><g><line id="actor21" x1="75" y1="5" x2="75" y2="446" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">Alice</tspan></text></g><g><line id="actor22" x1="275" y1="5" x2="275" y2="446" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Bob</tspan></text></g><g><line id="actor23" x1="475" y1="5" x2="475" y2="446" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="400" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="475" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="475" dy="0">John</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello Bob, how are you?</text><line x1="75" y1="100" x2="275" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="375" y="128" class="messageText" style="text-anchor: middle;">How about you John?</text><line x1="275" y1="135" x2="475" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><text x="175" y="163" class="messageText" style="text-anchor: middle;">I am good thanks!</text><line x1="275" y1="170" x2="75" y2="170" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#crosshead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><text x="375" y="198" class="messageText" style="text-anchor: middle;">I am good thanks!</text><line x1="275" y1="205" x2="475" y2="205" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#crosshead)" style="fill: none;"></line></g><g><rect x="500" y="215" fill="#EDF2AE" stroke="#666" width="150" height="76" rx="0" ry="0" class="note"></rect><text x="496" y="239" fill="black" class="noteText"><tspan x="516" fill="black">Bob thinks a long</tspan></text><text x="496" y="253" fill="black" class="noteText"><tspan x="516" fill="black">long time, so long</tspan></text><text x="496" y="267" fill="black" class="noteText"><tspan x="516" fill="black">that the text does</tspan></text><text x="496" y="281" fill="black" class="noteText"><tspan x="516" fill="black">not fit on a row.</tspan></text></g><g><text x="175" y="319" class="messageText" style="text-anchor: middle;">Checking with John...</text><line x1="275" y1="326" x2="75" y2="326" class="messageLine1" stroke-width="2" stroke="black" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><text x="275" y="354" class="messageText" style="text-anchor: middle;">Yes... John, how are you?</text><line x1="75" y1="361" x2="475" y2="361" class="messageLine0" stroke-width="2" stroke="black" style="fill: none;"></line></g><g><rect x="0" y="381" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="413.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">Alice</tspan></text></g><g><rect x="200" y="381" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="413.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Bob</tspan></text></g><g><rect x="400" y="381" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="475" y="413.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="475" dy="0">John</tspan></text></g></svg></div>
-<p>And this will produce a flow chart:</p>
-<div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-wbJm762ax99IWfeN" width="100%" style="max-width: 500.3109359741211px;" viewBox="0 0 500.3109359741211 171.890625"><g transform="translate(-12, -12)"><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M119.91170576572816,78.41796875L179.3203125,49.9453125L255.2578125,49.9453125" marker-end="url(#arrowhead124)" style="fill:none"></path><defs><marker id="arrowhead124" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M119.91170576572816,124.41796875L179.3203125,152.890625L234.796875,152.890625" marker-end="url(#arrowhead125)" style="fill:none"></path><defs><marker id="arrowhead125" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M315.1484375,49.9453125L360.609375,49.9453125L408.6013871293077,79.42595738363185" marker-end="url(#arrowhead126)" style="fill:none"></path><defs><marker id="arrowhead126" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M335.609375,152.890625L360.609375,152.890625L408.6013861816871,124.4099806946266" marker-end="url(#arrowhead127)" style="fill:none"></path><defs><marker id="arrowhead127" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="translate(179.3203125,49.9453125)" style="opacity: 1;"><g transform="translate(-30.4765625,-13)" class="label"><foreignObject width="60.953125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Link text</span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node" id="A" transform="translate(71.921875,101.41796875)" style="opacity: 1;"><rect rx="0" ry="0" x="-51.921875" y="-23" width="103.84375" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-41.921875,-13)"><foreignObject width="83.84375" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Square Rect</div></foreignObject></g></g></g><g class="node" id="B" transform="translate(285.203125,49.9453125)" style="opacity: 1;"><circle x="-29.9453125" y="-23" r="29.9453125"></circle><g class="label" transform="translate(0,0)"><g transform="translate(-19.9453125,-13)"><foreignObject width="39.890625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Circle</div></foreignObject></g></g></g><g class="node" id="C" transform="translate(285.203125,152.890625)" style="opacity: 1;"><rect rx="5" ry="5" x="-50.40625" y="-23" width="100.8125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-40.40625,-13)"><foreignObject width="80.8125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Round Rect</div></foreignObject></g></g></g><g class="node" id="D" transform="translate(444.96015548706055,101.41796875)" style="opacity: 1;"><polygon points="59.350781250000004,0 118.70156250000001,-59.350781250000004 59.350781250000004,-118.70156250000001 0,-59.350781250000004" rx="5" ry="5" transform="translate(-59.350781250000004,59.350781250000004)"></polygon><g class="label" transform="translate(0,0)"><g transform="translate(-32.9453125,-13)"><foreignObject width="65.890625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Rhombus</div></foreignObject></g></g></g></g></g></g></svg></div>
+<ul>
+<li>Quels est le prix qu’ils seraient prêt à payer ?</li>
+</ul>
+<blockquote>
+<p>Dépend du service : Latte Art à 6€, expresso à 2€, cabine de méditation express à 15€ les 20 mn.</p>
+</blockquote>
+<ul>
+<li>Comment comptes-tu établir le prix ?</li>
+</ul>
+<blockquote>
+<p>Par rapport à la valeur perçue et la concurrence (importance de l’enquête terrain et de l’analyse concurrentiel !).</p>
+</blockquote>
+<p>Si tu as aucune idée des prix que tu souhaites pratiquer au début, c’est tout à fait normal. Mais il te faut une base pour travailler, c’est pourquoi tu dois établir des estimations générales. Ton business plan confirmera ou pas tes hypothèses.</p>
+<h3 id="rubrique-bmc-6--ressources-clés-factory">1.2.6 Rubrique BMC (6) : <em>Ressources clés</em> 🏭</h3>
+<p>La rubrique <em>Ressources clés</em> définit tous <strong>les moyens nécessaires</strong> pour produire une offre répondant aux attentes de tes clients : les moyens matériels (mobilier, véhicules, local, etc.), immatériels (brevet, compétence, droit d’auteur, BDD, etc.), humains et financier.</p>
+<ul>
+<li>Quels sont les besoins en ressources ? (financières, humaines, intellectuelles, matérielles)</li>
+<li>Que comptes-tu faire pour acquérir, mobiliser et maintenir ces ressources ?</li>
+</ul>
+<p>Pour le <strong>Kawabunga Café</strong>, cela va donner :</p>
+<ul>
+<li>Quels sont les besoins en ressources ? (financières, humaines, intellectuelles, matérielles)</li>
+</ul>
+<blockquote>
+<p>Un barista ou te faire une formation barista et Latte Art, un local au dimension adéquate, du matériel pour faire du café, des tapis de méditation, du mobiliers design, des fournisseurs pour le café, deux bassins de flottaison, un système de ventilation pour les cabines de méditation, une sono, etc.</p>
+</blockquote>
+<ul>
+<li>Que comptes-tu faire pour acquérir, mobiliser et maintenir ces ressources ?</li>
+</ul>
+<blockquote>
+<p>Emprunt bancaire pour financer le café, et des contrats d’entretiens pour la machine à café et les bassins de flottaison.</p>
+</blockquote>
+<h3 id="rubrique-bmc-7--activités-clés-heavy_check_mark">1.2.7 Rubrique BMC (7) : <em>Activités clés</em> ✔️</h3>
+<p>Tu vas décrire ici les choses les plus importantes que tu dois faire pour que ta modèle économique fonctionne. Répondre à la question suivante t’aidera à définir cette rubrique :</p>
+<ul>
+<li>Quelles sont les activités nécessaires pour réaliser tes produits et services ?</li>
+</ul>
+<blockquote>
+<p>Dans le cas du café, ce n’est pas faire seulement de la vente au comptoir, mais c’est avant tout travailler sa communication autour du concept, faire des formations de barista. Fidéliser tes clients. Acquisition de partenaires.</p>
+</blockquote>
+<h3 id="section"></h3>
 
