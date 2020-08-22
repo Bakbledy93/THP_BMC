@@ -3,6 +3,8 @@
 
 ---
 
+<p>Ton guide pour construire ton BMC et devenir le nouveau Bezos !<br>
+<img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/WoW.jpg" alt="enter image description here"></p>
 <h1 id="construire-son-bmc---business-model-canvas">Construire son BMC - Business Model Canvas</h1>
 <p>Comme tous les matins en te réveillant tu allumes la télé, et tu prends ton café peinard devant ARTE (parce que t’es une personne de goût), et tu tombes sur un reportage sur  <a href="https://www.arte.tv/fr/videos/069099-000-A/les-etonnantes-vertus-de-la-meditation/">Les étonnantes vertus de la méditation</a> (que je te recommande au passage).</p>
 <p>En dégustant ton café <strong>bonifieur de Guadeloupe</strong> (quand je te disais que t’étais une personne de goût), tu décides de faire une séance de méditation express :</p>
@@ -13,6 +15,7 @@
 <center><img src="https://images.pexels.com/photos/3216564/pexels-photo-3216564.jpeg?cs=srgb&amp;dl=pexels-fotografierende-3216564.jpg&amp;fm=jpg" width="300"></center>
 <p>Tu te demandes alors quelle autre breuvage te permet de vivre un moment de pleine conscience aussi simplement (à part peut être une bonne binouze 🍺 après le taff). Et te rends compte qu’à chaque fois que tu savoures un café, cela te permet de ralentir le rythme et de te reconnecter au moment présent.</p>
 <p>Ni une, ni deux, ton cerveau part en vrille . Ça y est, tu le sens, tu as trouvé une idée de <em>biz OP</em>.  Tu vas ouvrir un café zen et méditation : le <strong>KawaBunga Café</strong> !</p>
+<center><iframe src="https://giphy.com/embed/xT0xeJpnrWC4XWblEk" width="480" height="320" class="giphy-embed" allowfullscreen=""></iframe></center>
 <p>Mais avant la gloire, les 🤑dollars💲💲  et devenir le futur Starbucks-<em>Killer</em>, il y a des étapes impératives à suivre pour lancer son projet. Et en premier lieu :</p>
 <ul>
 <li>
@@ -59,16 +62,16 @@ JP</p>
 <p>Un client c’est un <strong>acheteur</strong> (une personne ou entreprise) de biens ou de service proposé par ta boite.<br>
 ⚠️ Un client n’est pas forcément <strong>un utilisateur/consommateur</strong>. ⚠️</p>
 <h4 id="ok-cest-good-mais-comment-je-fais-pour-analyser-ma-clientèle-après-"><em>Ok c’est good, mais comment je fais pour analyser ma clientèle après ?</em></h4>
-<p>En premier, pour identifier ta clientèle, il faut que te poses toute une série de question qui te permettront de remplir une diagramme en entonnoir. En ciblant de plus en plus précisément, tu dégrossiras le profil type de ta clientèle. Ces questions sont les suivantes :</p>
+<p>En premier, pour identifier ta clientèle, il faut que tu te poses toute une série de question qui te permettront de remplir un diagramme en entonnoir. En ciblant de plus en plus précisément, tu dégrossiras le profil type de ta clientèle. Ces questions sont les suivantes :</p>
 <ul>
 <li>👪<em>Socio-démographique</em> : Quel est l’âge de mes clients cibles, leur genre, leur situation familiale ?</li>
 <li>💵<em>Economique</em> : Quels sont leur revenus, leur catégorie socio-professionnelle ?</li>
 <li>🌍<em>Géographique</em> : Dans quel pays habitent-ils? Dans quelle région/ville/quartier?</li>
 <li>💁<em>Comportements d’achats</em> : Quels sont leurs habitudes et attitudes d’achats, sont-ils fidèles à une marque en particulier ?</li>
 </ul>
-<p>Dans un deuxième temps, il faudra vérifié et enrichir tes hypothèses par une enquête (terrain, Google form, appels téléphoniques, etc.). Elle doit être aussi bien ⚠️ <strong>qualitative que quantitative</strong> ⚠️, tout ceci pour construire une offre correspondant aux attentes de tes futurs clients.</p>
+<p>Dans un deuxième temps, il faudra vérifier et enrichir tes hypothèses par une enquête (terrain, Google form, appels téléphoniques, etc.). Elle doit être aussi bien ⚠️ <strong>qualitative que quantitative</strong> ⚠️, tout ceci pour construire une offre correspondant aux attentes de tes futurs clients.</p>
 <h4 id="mise-en-forme"><em>Mise en forme</em></h4>
-<p>Bon maintenant, tu as toutes les éléments pour faire une analyse précise des clients du <strong>KawaBunga Café</strong>, un café zen 💆 et méditation situé dans le 8e arrondissement de Paris.</p>
+<p>Bon maintenant, tu as tous les éléments pour faire une analyse précise des clients du <strong>KawaBunga Café</strong>, un café zen 💆 et méditation situé dans le 8e arrondissement de Paris.</p>
 <p>Précisons ta clientèle avec les questions vues plus haut :</p>
 <ul>
 <li>👪<em>Socio-démographique</em> : Quel est l’âge de mes clients cibles, leur genre, leur situation familiale ?</li>
@@ -92,15 +95,15 @@ JP</p>
 <li>💁<em>Comportements d’achats</em> : Quels sont leurs habitudes et attitudes d’achats, sont-ils fidèles à une marque en particulier ?</li>
 </ul>
 <blockquote>
-<p>La plupart des adeptes de la méditation pratique également le Yoga qu’ils pratiquent en pleine air, chez eux ou dans des studios spécialisés. Ils pourront être attiré par le concept <strong>si les services proposés se démarquent vraiment de la concurrence</strong>.</p>
+<p>La plupart des adeptes de la méditation pratique également le Yoga qu’ils pratiquent en pleine air, chez eux ou dans des studios spécialisés. Ils pourront être attirés par le concept <strong>si les services proposés se démarquent vraiment de la concurrence</strong>.</p>
 </blockquote>
 <p>Au final, en synthétisant toutes les questions, tu peux ressortir un profil de clientèle :</p>
 <blockquote>
-<p><strong>Les habitants/ travailleurs / touristes du quartier de la gare Saint-Lazare, pratiquant le Yoga et souhaitant vivre une expérience innovante centré sur le bien-être</strong>.</p>
+<p><strong>Les habitants/ travailleurs / touristes du quartier de la gare Saint-Lazare, pratiquant le Yoga et souhaitant vivre une expérience innovante centrée sur le bien-être</strong>.</p>
 </blockquote>
 <p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/Client%C3%A8le%20cible%20THP.png" alt="Clientèle cible THP"></p>
 <h4 id="enquête"><em>Enquête</em></h4>
-<p>L’étape suivante et de faire une enquête terrain, tu vas arpenter le <em>tieks</em>  afin de mieux connaître ta clientèle  et de la segmenter (Quels budget consacrent-ils à leur bien-être ? Sont-ils prêt à fréquenter un café avec un concept innovant ?, etc) et ainsi préciser ton offre (A quel prix ? Quel niveau de service ? Différentes offres ?).</p>
+<p>L’étape suivante et de faire une enquête terrain, tu vas arpenter le <em>tieks</em>  afin de mieux connaître ta clientèle  et de la segmenter (Quel budget consacrent-ils à leur bien-être ? Sont-ils prêt à fréquenter un café avec un concept innovant ?, etc) et ainsi préciser ton offre (À quel prix ? Quel niveau de service ? Différentes offres ?).</p>
 <h3 id="concurrence-">1.1.3 Concurrence :</h3>
 <p>Le deuxième travail préliminaire est de réaliser une analyse de la concurrence. Connaître ses concurrents donne le moyen de rendre ton produit/service plus attractif et de s’assurer que le marché n’est pas saturé.</p>
 <h4 id="quest-ce-quun-concurrent-"><em>Qu’est-ce qu’un concurrent ?</em></h4>
@@ -136,7 +139,7 @@ Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse 
 <ol>
 <li>T’es clients sont-ils aussi les consommateurs ?</li>
 <li>B2B ou B2C ?</li>
-<li>Quel est le profil générale de ta clientèle ? Que veulent-ils ? Que ne veulent-ils pas ?</li>
+<li>Quel est le profil général de ta clientèle ? Que veulent-ils ? Que ne veulent-ils pas ?</li>
 <li>Où les retrouve-t-on généralement ? Quelle est la meilleure manière de valider leur intérêts ?</li>
 </ol>
 <p>Mais heureusement que t’es consciencieux et que tu as fait un super travail préliminaire, <em>EZ</em>! Donc appuis toi dessus :</p>
@@ -166,7 +169,7 @@ Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse 
 </blockquote>
 <p>Et voilà le travail !</p>
 <h3 id="rubrique-bmc-2--propositions-de-valeurs-gift">1.2.2 Rubrique BMC (2) : <em>Propositions de valeurs</em> 🎁</h3>
-<p>C’est l’offre que tu vas proposer qui <strong>va avoir une valeur</strong> (ou pas, si tu as mal défini ta clientèle cible) auprès de tes clients. La proposition de valeur va apporter une solution à un problème ou un besoin. L’offre est indissociable aux clients. Comme <em>Sasha et Pikachu</em>, <em>Han Solo et Chewie</em>, <em>Rick et Morty</em> …  l’un ne va pas s’en l’autre et ceux qui pensent le contraire sont des 🤬🤬🤬🤬 de psychopathes qui ne méritent que la banqueroute !</p>
+<p>La proposition de valeur va apporter une solution à un problème ou un besoin. L’offre que tu vas proposer <strong>va avoir une valeur</strong> (ou pas, si tu as mal défini ta clientèle cible) auprès de tes clients.  L’offre est indissociable aux clients. Comme <em>Sasha et Pikachu</em>, <em>Han Solo et Chewie</em>, <em>Rick et Morty</em> …  l’un ne va pas s’en l’autre et ceux qui pensent le contraire sont des 🤬🤬🤬🤬 de psychopathes qui ne méritent que la banqueroute !</p>
 <p>Tu vas le définir en répondant aux questions suivantes :</p>
 <ol>
 <li>Quel <strong>besoin/problème</strong> ta proposition va répondre/résoudre ?</li>
@@ -193,7 +196,7 @@ Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse 
 <p>Qualité des produits et des services.</p>
 </blockquote>
 <h3 id="nota--pour-aller-plus-loin">Nota : pour aller plus loin</h3>
-<p>Il existe un ouvrage spécifiquement dédié à la définition des segments clientèles et des proposition de valeurs écrit également par Alexander Osterwalder et Yves pigneur, <em>Value Proposition Design</em>. Qui explique de manière précise les liens entres ces deux rubriques majeures et comment les définir correctement. Tu peux lire cette <a href="https://business-builder.cci.fr/guide-creation/la-bonne-idee-de-creation-dentreprise/travailler-sur-les-besoins-de-ses-clients-le-value-proposition-canvas">article de la CCI</a> sur le sujet.</p>
+<p>Il existe un ouvrage spécifiquement dédié à la définition des segments clientèles et des propositions de valeurs écrit également par Alexander Osterwalder et Yves pigneur, <em>Value Proposition Design</em>. Il explique de manière précise les liens entres ces deux rubriques majeures et comment les définir correctement. Tu peux lire cette <a href="https://business-builder.cci.fr/guide-creation/la-bonne-idee-de-creation-dentreprise/travailler-sur-les-besoins-de-ses-clients-le-value-proposition-canvas">article de la CCI</a> sur le sujet.</p>
 <p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/Value%20proposition%20canvas.png" alt="Value proposition design"></p>
 <h3 id="rubrique-bmc-3--canaux-de-distribution-truck">1.2.3 Rubrique BMC (3) : <em>Canaux de distribution</em> 🚚</h3>
 <p>C’est <strong>les moyens de communication et de distributions</strong> que tu mets en place pour atteindre tes clients.</p>
@@ -203,10 +206,10 @@ Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse 
 </ul>
 <p>Et pour ton projet, c’est simple :</p>
 <blockquote>
-<p>Ton local, des ateliers de méditations éphémères par exemple.</p>
+<p>Ton local et des ateliers de méditations éphémères par exemple.</p>
 </blockquote>
 <h3 id="rubrique-bmc-4-relations-clients-heart">1.2.4 Rubrique BMC (4): <em>Relations clients</em> ❤️</h3>
-<p>C’est dans cette rubrique que tu vas décrire les types de relations que ta boite va établir avec tes clients. C’est définir toute <strong>ta stratégie</strong> de fidélisation et d’acquisition clientèle et d’assurer le maximum de <em>cravbi</em>.</p>
+<p>C’est dans cette rubrique que tu vas décrire les types de relations que ta boite va établir avec tes clients. C’est définir toute <strong>ta stratégie</strong> de fidélisation, d’acquisition clientèle et d’assurer le maximum de <em>cravbi</em>.</p>
 <ul>
 <li>Quelle est la stratégie permettant de rejoindre, fidéliser, générer et maintenir une clientèle cible ?</li>
 <li>Quels seront les moyens de communication privilégiés ?</li>
@@ -216,13 +219,13 @@ Mais pour l’exemple de l’article on va tout même partir sur l’hypothèse 
 <li>Quelle est la stratégie permettant de rejoindre, fidéliser, générer et maintenir une clientèle cible ?</li>
 </ul>
 <blockquote>
-<p>Evènements mensuels :  ateliers d’initiations aux différents types de méditation (Vipassana, pleine conscience, Zazen, etc).<br>
+<p>Evènements mensuels :  ateliers d’initiations aux différents types de méditations (Vipassana, pleine conscience, Zazen, etc).<br>
 Masterclass de yogis.<br>
-Des séances en cabine offerte au bout d’un certain seuil de consommation.</p>
+Des séances en cabine offertes au bout d’un certain seuil de consommation.</p>
 </blockquote>
-<p>La perception clientèle est aussi importante. Quid du nom <strong>Kawabunga Café</strong>, qui renvoi plus à des tortues 🐢 qu’à un univers zen et calme. <em>Dois-tu opérer  à des changements ?</em></p>
+<p>La perception clientèle est aussi importante. Quid du nom <strong>Kawabunga Café</strong>, qui renvoi plus à des tortues 🐢 qu’à un univers zen et calme. <em>Dois-tu opérer à des changements ?</em></p>
 <ul>
-<li>Quels seront les moyens de communication privilégiés ?</li>
+<li>Quels seront les moyens de communications privilégiés ?</li>
 </ul>
 <blockquote>
 <p>Site internet, Facebook, Instagram.</p>
@@ -231,7 +234,7 @@ Des séances en cabine offerte au bout d’un certain seuil de consommation.</p>
 <p>Ce sont les rentrées d’argents générées par ta boite, qui suivant ton offre, peuvent être <strong>ponctuelles ou récurrentes</strong>.</p>
 <ul>
 <li>Pourquoi les clients paient-ils ?</li>
-<li>Quels est le prix qu’ils seraient prêt à payer ?</li>
+<li>Quel est le prix qu’ils seraient prêt à payer ?</li>
 <li>Comment comptes-tu établir le prix ? (coût de revient, concurrence, valeur perçue, rareté)</li>
 </ul>
 <p>Pour le <strong>Kawabunga Café</strong>, cela va donner :</p>
@@ -242,7 +245,7 @@ Des séances en cabine offerte au bout d’un certain seuil de consommation.</p>
 <p>Niveau de prestation élevés</p>
 </blockquote>
 <ul>
-<li>Quels est le prix qu’ils seraient prêt à payer ?</li>
+<li>Quel est le prix qu’ils seraient prêt à payer ?</li>
 </ul>
 <blockquote>
 <p>Dépend du service : Latte Art à 6€, expresso à 2€, cabine de méditation express à 15€ les 20 mn.</p>
@@ -271,15 +274,15 @@ Des séances en cabine offerte au bout d’un certain seuil de consommation.</p>
 <li>Que comptes-tu faire pour acquérir, mobiliser et maintenir ces ressources ?</li>
 </ul>
 <blockquote>
-<p>Emprunt bancaire pour financer le café, et des contrats d’entretiens pour la machine à café et les bassins de flottaison.</p>
+<p>Emprunt bancaire pour financer le café et des contrats d’entretiens pour les machines.</p>
 </blockquote>
 <h3 id="rubrique-bmc-7--activités-clés-heavy_check_mark">1.2.7 Rubrique BMC (7) : <em>Activités clés</em> ✔️</h3>
-<p>Tu vas décrire ici les choses les plus importantes que tu dois faire pour que ta modèle économique fonctionne. Répondre à la question suivante t’aidera à définir cette rubrique :</p>
+<p>Tu vas décrire ici les choses les plus importantes que tu dois faire pour que ton modèle économique fonctionne. Répondre à la question suivante t’aidera à définir cette rubrique :</p>
 <ul>
 <li>Quelles sont les activités nécessaires pour réaliser tes produits et services ?</li>
 </ul>
 <blockquote>
-<p>Dans le cas du café, ce n’est pas faire seulement de la vente au comptoir, mais c’est avant tout travailler sa communication autour du concept, faire des formations de barista. Fidéliser tes clients. Acquisition de partenaires.</p>
+<p>Dans le cas du café, ce n’est pas faire seulement de la vente au comptoir, mais c’est avant tout travailler sa communication autour du concept, faire des formations de barista. Fidéliser tes clients et faire de l’acquisition de partenaires.</p>
 </blockquote>
 <h3 id="rubrique-bmc-8--partenariats-clés---🤝">1.2.8 Rubrique BMC (8) : <em>Partenariats clés</em> :  🤝</h3>
 <p>Ce sont tes <strong>alliés extérieurs</strong> à ta boite, grâce auxquels tu pourras faire <strong>évoluer et améliorer</strong> ton offre. Cela peut être des partenariats par alliance, c’est à dire avec d’autres boites non concurrentes. Par coopétition, des partenariats avec des entreprises concurrentes. Des <em>Joint-ventures</em> pour développer des nouvelles activités. Et les partenariats avec tes fournisseurs pour assurer des prestations fiables.</p>
@@ -321,11 +324,13 @@ Des séances en cabine offerte au bout d’un certain seuil de consommation.</p>
 <p>L’investissement de départ pour le matériel, le loyer, la masse salariale, l’assurance et la fourniture en café.</p>
 </blockquote>
 <ul>
-<li>Quels  en sont les coûts annuels approximatifs ?</li>
+<li>Quels en sont les coûts annuels approximatifs ?</li>
 </ul>
 <blockquote>
 <p>Pareil que pour les flux de revenus, tu peux l’estimer très sommairement et tu l’affineras  dans ton business plan.</p>
 </blockquote>
 <h2 id="récapitulatif">1.3 Récapitulatif</h2>
 <p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/BMC.jpg" alt="BMC"></p>
+<p>Et voilà, on a définit pas à pas un BMC complet. Et c’est un excellent point de départ pour développer un projet d’entreprise !</p>
+<center><iframe src="https://giphy.com/embed/26gJyIscAHtBNcc00" width="480" height="266" class="giphy-embed" allowfullscreen=""></iframe></center>
 
