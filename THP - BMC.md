@@ -281,5 +281,51 @@ Des séances en cabine offerte au bout d’un certain seuil de consommation.</p>
 <blockquote>
 <p>Dans le cas du café, ce n’est pas faire seulement de la vente au comptoir, mais c’est avant tout travailler sa communication autour du concept, faire des formations de barista. Fidéliser tes clients. Acquisition de partenaires.</p>
 </blockquote>
-<h3 id="section"></h3>
+<h3 id="rubrique-bmc-8--partenariats-clés---🤝">1.2.8 Rubrique BMC (8) : <em>Partenariats clés</em> :  🤝</h3>
+<p>Ce sont tes <strong>alliés extérieurs</strong> à ta boite, grâce auxquels tu pourras faire <strong>évoluer et améliorer</strong> ton offre. Cela peut être des partenariats par alliance, c’est à dire avec d’autres boites non concurrentes. Par coopétition, des partenariats avec des entreprises concurrentes. Des <em>Joint-ventures</em> pour développer des nouvelles activités. Et les partenariats avec tes fournisseurs pour assurer des prestations fiables.</p>
+<ul>
+<li>Qui en interne ou en externe peut contribuer au succès de l’entreprise ?</li>
+<li>Que souhaites-tu obtenir à travers ces partenariats ?</li>
+<li>Que peux-tu offrir en retour ?</li>
+</ul>
+<p>Pour le <strong>Kawabunga Café</strong>, cela va donner :</p>
+<ul>
+<li>Qui en interne ou en externe peut contribuer au succès de l’entreprise ?</li>
+</ul>
+<blockquote>
+<p>Amis, connaissances pour le bouche à oreille, influenceurs, presse tendance, studio yoga du quartier.</p>
+</blockquote>
+<ul>
+<li>Que souhaites-tu obtenir à travers ces partenariats ?</li>
+</ul>
+<blockquote>
+<p>De la publicité. Un offre jointe avec le studio yoga.</p>
+</blockquote>
+<ul>
+<li>Que peux-tu offrir en retour ?</li>
+</ul>
+<blockquote>
+<p>Remises, des séances en cabine gratuites.</p>
+</blockquote>
+<h3 id="rubrique-bmc-9--structure-de-coûts-bookmark_tabs">1.2.9 Rubrique BMC (9) : <em>Structure de coûts</em> 📑</h3>
+<p>On arrive enfin à la dernière rubrique, cette rubrique va définir tous les coûts inhérents au bon fonctionnement de ton entreprise. Tu vas le remplir avec les questions suivantes :</p>
+<ul>
+<li>Quels sont tes postes budgétaires les plus importants ?</li>
+<li>Quels  en sont les coûts annuels approximatifs ?</li>
+</ul>
+<p>Pour le <strong>Kawabunga Café</strong>, cela va donner :</p>
+<ul>
+<li>Quels sont tes postes budgétaires les plus importants ?</li>
+</ul>
+<blockquote>
+<p>L’investissement de départ pour le matériel, le loyer, la masse salariale, l’assurance et la fourniture en café.</p>
+</blockquote>
+<ul>
+<li>Quels  en sont les coûts annuels approximatifs ?</li>
+</ul>
+<blockquote>
+<p>Pareil que pour les flux de revenus, tu peux l’estimer très sommairement et tu l’affineras  dans ton business plan.</p>
+</blockquote>
+<h2 id="récapitulatif">1.3 Récapitulatif</h2>
+<p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/BMC.jpg" alt="BMC"></p>
 
