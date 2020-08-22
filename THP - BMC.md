@@ -3,8 +3,8 @@
 
 ---
 
-<p>Ton guide pour construire ton BMC et devenir le nouveau Bezos !<br>
-<img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/WoW.jpg" alt="enter image description here"></p>
+<p>Ton guide pour construire ton BMC et devenir le nouveau Bezos ! Rédigé dans le cadre de la formation <a href="https://www.thehackingproject.org/">The Hacking Project</a></p>
+<p><img src="https://github.com/Bakbledy93/THP_BMC/blob/master/assets/img/WoW.jpg" alt="enter image description here"></p>
 <h1 id="construire-son-bmc---business-model-canvas">Construire son BMC - Business Model Canvas</h1>
 <p>Comme tous les matins en te réveillant tu allumes la télé, et tu prends ton café peinard devant ARTE (parce que t’es une personne de goût), et tu tombes sur un reportage sur  <a href="https://www.arte.tv/fr/videos/069099-000-A/les-etonnantes-vertus-de-la-meditation/">Les étonnantes vertus de la méditation</a> (que je te recommande au passage).</p>
 <p>En dégustant ton café <strong>bonifieur de Guadeloupe</strong> (quand je te disais que t’étais une personne de goût), tu décides de faire une séance de méditation express :</p>
